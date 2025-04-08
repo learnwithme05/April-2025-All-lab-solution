@@ -1,0 +1,13 @@
+export LOCATION=
+
+curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Ingesting%20FHIR%20Data%20with%20the%20Healthcare%20API/gsp457.sh
+
+sudo chmod +x gsp457.sh
+
+./gsp457.sh
+****************************************************
+Go to DATASET from here
+https://console.cloud.google.com/projectselector2/healthcare/browser?invt=AbuOlQ&supportedpurview=project
+
+Go to BigQuery Studio! from here
+https://console.cloud.google.com/projectselector2/bigquery?invt=AbuOlg&supportedpurview=project
