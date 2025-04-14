@@ -1,7 +1,3 @@
-export ZONE=
-
-curl -O https://raw.githubusercontent.com/Arcade-helper/TechCare-April/main/ARC119_Form4.sh
-
-chmod +x ARC119_Form4.sh
-
-./ARC119_Form4.sh
+curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/%5BForm%202%5D%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20-%20Challenge%20Lab/arcadecrew.sh
+sudo chmod +x arcadecrew.sh
+./arcadecrew.sh
